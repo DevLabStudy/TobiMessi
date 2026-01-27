@@ -10,23 +10,19 @@
 
 <table border="0">
   <tr>
-    <td>
+    <td width="200" align="center">
       <a href="https://github.com/sponsors/TobiMessi">
-        <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" width="200">
+        <img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" width="180">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td>
+    <td width="200" align="center">
       <a href="https://patreon.com/TobiMessi">
-        <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" width="200">
+        <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" width="180">
       </a>
     </td>
-  </tr>
-  <tr>
-    <td>
+    <td width="200" align="center">
       <a href="https://buymeacoffee.com/TobiK0">
-        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="180">
       </a>
     </td>
   </tr>
