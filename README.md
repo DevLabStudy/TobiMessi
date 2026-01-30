@@ -6,14 +6,14 @@
 
 ---
 
-### 🛠️ My Tech Stack & Environment
-**Infrastructure:** HomeLab (Asus Server / HP ProDesk) | Docker | Ubuntu  
+###  My Tech Stack & Environment
+**Infrastructure:** HomeLab (Asus Server / HP ProDesk) | Docker | Mint  
 **Dev Tools:** JetBrains Student Pack (PyCharm, IntelliJ) | GitHub Premium  
 **Languages:** Python | Bash | DevOps Automation  
 
 ---
 
-### 🚀 Projects in Development
+###  Projects in Development
 * **Orbit** – My main project control system.
 * **HomeLab Management** – Orchestrating services on local hardware.
 
