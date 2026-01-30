@@ -6,20 +6,16 @@
 
 ---
 
-###  GitHub Stats
-
-![Tobi's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobiMessi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&v=2)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiMessi&layout=compact&theme=tokyonight&count_private=true&v=2)
-
-</div>
+### 🛠️ My Tech Stack & Environment
+**Infrastructure:** HomeLab (Asus Server / HP ProDesk) | Docker | Ubuntu  
+**Dev Tools:** JetBrains Student Pack (PyCharm, IntelliJ) | GitHub Premium  
+**Languages:** Python | Bash | DevOps Automation  
 
 ---
 
-<div align="center">
-
-###  Tech Stack & Lab
-**Server:** HP ProDesk (Docker) | **IDE:** JetBrains Student | **OS:** Windows & Linux
+### 🚀 Projects in Development
+* **Orbit** – My main project control system.
+* **HomeLab Management** – Orchestrating services on local hardware.
 
 ---
 
