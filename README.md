@@ -8,7 +8,7 @@
 
 ### 🛠️ My Tech Stack & Environment
 **Infrastructure:** HomeLab (Asus Server / HP SFF 6300 PRO) | Docker | Linux Mint  
-**Dev Tools:** JetBrains Student Pack (PyCharm, IntelliJ) | GitHub Premium | **GitHub Copilot AI** **Languages:** Python | Bash | DevOps Automation | **SQL (PostgreSQL/SQLite)**
+**Dev Tools:** JetBrains Student Pack (PyCharm, WebStorm) | GitHub Premium | **GitHub Copilot AI** **Languages:** Python | Bash | DevOps Automation | **SQL (PostgreSQL/SQLite)**
 
 ---
 
