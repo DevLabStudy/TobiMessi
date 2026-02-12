@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm DevLabStudy 👋
+# Hi, I'm DevLabStudy© 👋
 
 **DevOps Enthusiast | Python Developer | HomeLab Architect**
 
@@ -13,14 +13,14 @@
 ---
 
 ### 🚀 Projects in Development
-* **[Orbit](https://github.com/DevLabStudy/orbit)** – My main project control system.
-* **[Orbit Mobile](https://github.com/DevLabStudy/orbit_mobile)** – Dedicated Android client for ecosystem management.
+* **[Orbit™](https://github.com/DevLabStudy/orbit)** – My main project control system.
+* **[Orbit™ Mobile](https://github.com/DevLabStudy/orbit_mobile)** – Dedicated Android client for ecosystem management.
 * **HomeLab Management** – Orchestrating services on local hardware with zero-trust networking.
 
 ---
 
 ### 🎯 Current Goals
-* [ ] Full integration of Orbit Core with Android Mobile App.
+* [ ] Full integration of Orbit™ Core with Android Mobile App.
 * [ ] Moving my workspace to **Lenovo Yoga** for mobile coding.
 * [ ] Automating home lab backups to the cloud.
 
